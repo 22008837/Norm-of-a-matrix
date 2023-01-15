@@ -40,15 +40,15 @@ print(Norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-output[](/Screenshot%202023-01-14%20221619.png)
+![1-Norm of a Matrix](/Screenshot%202023-01-14%20221619.png)
 
 
 ### 2-Norm of a Matrix
-output[](/Screenshot%202023-01-14%20221646.png)
+![2-Norm of a Matrix](/Screenshot%202023-01-14%20221646.png)
 
 
 ### Infinity Norm of a Matrix
-output[](/Screenshot%202023-01-14%20221710.png)
+![Infinity Norm of a Matrix](/Screenshot%202023-01-14%20221710.png)
 
 
 ## Result
